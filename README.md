@@ -183,8 +183,7 @@ print("BFS Traversal Path:", traversed_path)
 ```
 <h3>Output:</h3>
 
-![output](![image](https://github.com/user-attachments/assets/aa1c8cb7-f919-4902-aef2-77c1f49b6170)
-)
+![output](![image](https://github.com/user-attachments/assets/aa1c8cb7-f919-4902-aef2-77c1f49b6170))
 
 <h3>Result:</h3>
 <hr>
